@@ -22,7 +22,6 @@ def cost_bennefit_inner():
 
 def cost_bennefit_out(lista):
     lista = sorted(lista, reverse=False, key=lambda it: it[1])
-    print(lista)
     with open("output.txt", 'a') as output:
         for i in lista:
             i = i[0]
