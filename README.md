@@ -20,4 +20,4 @@ python initial.py
 
 ## How to test
 
-Check if a new file was created on your current folder. The file is: output.txt. This file contains a list of AWS Instances sorted by value in order of decreasing.
+Check if a new file was created on your current folder. The file is: output.txt. This file contains a list of AWS Instances sorted by the better cost benefit to the lowest.
